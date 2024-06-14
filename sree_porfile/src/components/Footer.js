@@ -10,7 +10,7 @@ export const Footer = () => {
       <Container>
         <Row className="align-items-center">
           <Col size={12} sm={4}>
-            <button class="bi bi-arrow-up-square">TOP</button>
+            <img />
           </Col>
 
           <Col size={16} sm={14} className="text-center text-sm-end">

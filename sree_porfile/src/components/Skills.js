@@ -56,7 +56,7 @@ export const Skills = () => {
                   <h5>HTML5 & CSS3</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>TypeScript</h5>
                 </div>
                 <div className="item">
